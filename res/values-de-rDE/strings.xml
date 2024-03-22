@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CorinLicense</string>
+    <string name="savings">Ersparnisse</string>
+    <string name="spent_today">Heute Ausgegeben</string>
+    <string name="balance">Saldo</string>
+    <string name="add">Hinzufügen</string>
+    <string name="withdraw">Abheben</string>
+    <string name="setup_image">Bild Einrichten</string>
+    <string name="details">Details</string>
+    <string name="_0_">0</string>
+    <string name="settings">Einstellungen</string>
+    <string name="home">Startseite</string>
+    <string name="scan">Scannen</string>
+    <string name="language">Sprache</string>
+    <string name="time">Zeit</string>
+    <string name="currency">Währung</string>
+    <string name="nickname">Spitzname</string>
+    <string name="choose_language">Sprache Wählen</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string> - dd/mm/yyyy
+    <string name="save">Speichern</string>
+    <string name="error_capture">Bildaufnahme fehlgeschlagen</string>
+    <string name="error_processing">Fehler bei der Verarbeitung des Bildes</string>
+    <string name="insert_amount">Betrag eingeben</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="overview">Übersicht</string>
+    <string name="uploaded">Foto wurde hochgeladen</string>
+</resources>

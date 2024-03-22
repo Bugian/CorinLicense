@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CorinLicense</string>
+    <string name="savings">Economii</string>
+    <string name="spent_today">Cheltuit Azi</string>
+    <string name="balance">Balanță</string>
+    <string name="add">Adaugă</string>
+    <string name="withdraw">Retrage</string>
+    <string name="setup_image">Setează Imaginea</string>
+    <string name="details">Detalii</string>
+    <string name="_0_">0</string>
+    <string name="settings">Setări</string>
+    <string name="home">Acasă</string>
+    <string name="scan">Scanează</string>
+    <string name="language">Limbă</string>
+    <string name="time">Timp</string>
+    <string name="currency">Monedă</string>
+    <string name="nickname">Poreclă</string>
+    <string name="choose_language">Alege Limba</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string> - dd/mm/yyyy
+    <string name="save">Salvare</string>
+    <string name="error_capture">Captură imagine eșuată</string>
+    <string name="error_processing">Eroare la procesarea imaginii</string>
+    <string name="insert_amount">Introduceți suma</string>
+    <string name="cancel">Anulare</string>
+    <string name="overview">Prezentare generală</string>
+    <string name="uploaded">Fotografia a fost încărcată</string>
+</resources>
