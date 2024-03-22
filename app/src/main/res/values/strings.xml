@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CorinLicense</string>
+    <string name="savings">Savings</string>
+    <string name="spent_today">Spent Today</string>
+    <string name="balance">Balance</string>
+    <string name="_55_7_ron">55.7 RON</string>
+    <string name="_300_ron">300 RON</string>
+    <string name="_120_ron">120 RON</string>
+    <string name="sushi_gucci">Sushi Gucci</string>
+    <string name="add">Add</string>
+    <string name="withdraw">Withdraw</string>
+</resources>

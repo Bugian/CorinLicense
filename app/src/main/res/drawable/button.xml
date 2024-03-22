@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+            <gradient
+                android:startColor="@color/colorPink"
+                android:endColor="@color/white"
+                android:type="radial" />
+            <corners android:radius="25dp" />
+    <!-- Imaginea pe partea stângă a butonului -->
+    <item
+        android:drawable="@mipmap/arrow_ups_foreground"
+        android:gravity="left|center_vertical" />
+    </shape>
